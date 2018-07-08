@@ -1,0 +1,6 @@
+<aura:component implements="force:appHostable">
+<div>
+    <div>Account Map Goes Here</div>
+    <div>AccountListGoesHere</div>
+</div>
+</aura:component>	
